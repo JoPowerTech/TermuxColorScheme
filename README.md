@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  ![]()
+  ![print](https://github.com/JoPowerTech/TermuxColorScheme/blob/main/print.jpg)
 
 </p>
 
