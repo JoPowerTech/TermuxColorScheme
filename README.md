@@ -1,3 +1,5 @@
+<hr>
+
 # Termux Color Scheme
 
 > Termux Color Scheme é um esquema de cores para o Termux, ele é dark e muito bonito, veja a foto abaixo.
@@ -21,3 +23,4 @@
   ```
 
 </details>
+<hr>
